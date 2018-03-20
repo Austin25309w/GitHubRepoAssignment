@@ -1,0 +1,8 @@
+go to GitHub.com and create new repository
+https://github.com/Austin25309w/GitHubRepoAssignment.git
+mkdir GitHubRepoAssignment
+git init
+touch readme.md 
+git status
+git add . 
+git commit 
